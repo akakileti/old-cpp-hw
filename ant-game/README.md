@@ -1,6 +1,7 @@
 # Ant Game - CSCE1030 Homework 4
 
 This project was created for CSCE 1030 (at Texas Academy of Math and Science/University of North Texas) as part of a homework assignment in Fall 2020
+
 It was a timed coding assignment and was written entirely in Vim using C++
 
 ---
